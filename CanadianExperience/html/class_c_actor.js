@@ -1,0 +1,28 @@
+var class_c_actor =
+[
+    [ "CActor", "class_c_actor.html#a2849f9370b66ddeaa727c8b7045d62c2", null ],
+    [ "CActor", "class_c_actor.html#ae7683d5f0b3edc85dc47850fa71de40f", null ],
+    [ "CActor", "class_c_actor.html#a8af986ad4ec530967f942aaebd853632", null ],
+    [ "~CActor", "class_c_actor.html#adca86a138fd9af275352336848ebad27", null ],
+    [ "AddDrawable", "class_c_actor.html#a943e05a65bde59998079ab647ec0e7ec", null ],
+    [ "Draw", "class_c_actor.html#a78048c684b231e498184d963b57fffe2", null ],
+    [ "GetName", "class_c_actor.html#aa2a50154e56b4065f6c2920dcaeb467f", null ],
+    [ "GetPicture", "class_c_actor.html#ac1f85e76b6d3410bd28776435cb4462d", null ],
+    [ "GetPosition", "class_c_actor.html#a554c005cead41c01a413ecb3db9f13a0", null ],
+    [ "HitTest", "class_c_actor.html#a63676c04fa760cd9fc56d85cb0542cd1", null ],
+    [ "IsClickable", "class_c_actor.html#a05ce9886560aca61fde86adb6e9069c6", null ],
+    [ "IsEnabled", "class_c_actor.html#a96ad33aeaf44327f982f60de93ef6e0c", null ],
+    [ "operator=", "class_c_actor.html#aa947810cfb2f45129b501296bcad837c", null ],
+    [ "SetClickable", "class_c_actor.html#a6c717ba1037b3055a5ec94e18e1707de", null ],
+    [ "SetEnabled", "class_c_actor.html#a6f9009e9753b07a00266cac01af2fdad", null ],
+    [ "SetPicture", "class_c_actor.html#abab827a43ab7e7d62e1a9330a021dd3c", null ],
+    [ "SetPosition", "class_c_actor.html#af0bda8fd0ba0320f9fd6e67b7b16a07d", null ],
+    [ "SetRoot", "class_c_actor.html#af0417205281ecd3bc52a367724cc6635", null ],
+    [ "mClickable", "class_c_actor.html#a302ffe8fa0bfad18ce7a2c2c13b5eb33", null ],
+    [ "mDrawablesInOrder", "class_c_actor.html#a8f04d7688977a4ff2c9dd79b7d6b8011", null ],
+    [ "mEnabled", "class_c_actor.html#a2aa2a18aff762869870817ec46bbcedf", null ],
+    [ "mName", "class_c_actor.html#a1ef58e61bf5b6af3cda55d67d0457c28", null ],
+    [ "mPicture", "class_c_actor.html#a1d416dcbce1c6417e2bea549f1c0fe14", null ],
+    [ "mPosition", "class_c_actor.html#a65807448542244bc04e24dee98d17c4f", null ],
+    [ "mRoot", "class_c_actor.html#a4fe5c598ac23e2cdafb01738c0bc70bc", null ]
+];
